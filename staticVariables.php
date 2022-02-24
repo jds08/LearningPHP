@@ -4,7 +4,7 @@
     // life time and are similar to global varibles but 
     // don't share the same scope.
     
-    //static varibles can only be initialized with predetermine values
+    //static variables can only be initialized with predetermine values
     function test()
     {
         static $count = 0;
